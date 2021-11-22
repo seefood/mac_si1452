@@ -1,6 +1,6 @@
-# Hebrew Keyboard. is1452-2 for MacOS
+# Hebrew Keyboards: is1452 and is1452-2 for MacOS
 
-In 2016 the new Israeli standards institute published 1452-2, the new standard for Hebrew computer keyboards.
+In 2017 the Israeli standards institute published si1452-2, the new standard for Hebrew computer keyboards.
 This standard is still not ubiquitous, and some are considering it a bit controvertial (the improved version moved around many letters and symbols) but it was adopted by Microsoft windows very quickly.
 Sadly, MacOS still doesn't offer it in 2021, hence this repo.
 
@@ -8,7 +8,7 @@ Sadly, MacOS still doesn't offer it in 2021, hence this repo.
 
 Download the repo as zip (or clone it, your choice). you will see that it has a directory called HebrewKeys.bundle that contains all 3 mappings. You can either copy/move it as is to `${HOME}/Library/Keyboard\ Layouts/` to install it just for yourself or to `/Library/Keyboard\ Layouts/` using `sudo` to install it to all the users of that MacOS machine.
 
-If you don't want the entire bundle, you can copy just one of the layouts as a single file, such as `Hebrew\ si1452-2.keylayout` to the above directories.
+If you don't want the entire bundle, you can copy just one of the layouts as a single file, such as `Hebrew\ si1452.keylayout` to the above directories.
 
 ## License
 
@@ -26,9 +26,9 @@ If you don't want the entire bundle, you can copy just one of the layouts as a s
 
 ## Changelog
 
-0.1 Initial version POC. Used Ukelele to create an initial Hebrew keyboard (based on the MacOS standard Hebrew) and edited the alt-gr layer to feature Niqqud.
+* 0.1 Initial version POC. Used Ukelele to create an initial Hebrew keyboard (based on the MacOS standard Hebrew) and edited the alt-gr layer to feature Niqqud.
+* 0.2 Seperate the 1452 and 1452-2 layouts.
 
 ## Todo
 
-* Add "Improved" variant with the 9 new key locations
 * Clean up keys mapped to unrelated symbols inherited from original Mac mapping.

@@ -7,20 +7,20 @@
 	<key>CFBundleName</key>
 	<string>HebrewKeys</string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
-	<key>KLInfo_Hebrew (MacOS)</key>
+	<string>0.2</string>
+	<key>KLInfo_Hebrew si1452</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrew(macos)</string>
+		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrewsi1452</string>
 		<key>TISIntendedLanguage</key>
 		<string>he</string>
 	</dict>
 	<key>KLInfo_Hebrew si1452-2</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<true/>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrewsi1452-2</string>
 		<key>TISIntendedLanguage</key>
