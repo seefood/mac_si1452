@@ -7,22 +7,13 @@
 	<key>CFBundleName</key>
 	<string>HebrewKeys</string>
 	<key>CFBundleVersion</key>
-	<string>0.2</string>
+	<string>0.3</string>
 	<key>KLInfo_Hebrew si1452</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrewsi1452</string>
-		<key>TISIntendedLanguage</key>
-		<string>he</string>
-	</dict>
-	<key>KLInfo_Hebrew si1452-2</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrewsi1452-2</string>
 		<key>TISIntendedLanguage</key>
 		<string>he</string>
 	</dict>
