@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.hebrewkeys</string>
+	<key>CFBundleName</key>
+	<string>HebrewKeys</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>KLInfo_Hebrew (MacOS)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrew(macos)</string>
+		<key>TISIntendedLanguage</key>
+		<string>he</string>
+	</dict>
+	<key>KLInfo_Hebrew si1452-2</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.hebrewkeys.hebrewsi1452-2</string>
+		<key>TISIntendedLanguage</key>
+		<string>he</string>
+	</dict>
+</dict>
+</plist>
